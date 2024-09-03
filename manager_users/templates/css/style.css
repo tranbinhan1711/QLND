@@ -1,0 +1,19 @@
+/* hihi */
+.mg-form {
+    margin-bottom: 10px;
+}
+
+.mg-btn{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.mg-btn.btn-user{
+    margin-top: 10px;
+    width: 15%;
+}
+.errors{
+    color: red;
+    font-size:  90%;
+    font-style: italic;
+}
